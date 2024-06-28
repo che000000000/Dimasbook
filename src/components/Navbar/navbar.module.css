@@ -1,0 +1,23 @@
+.navbar{
+    padding: 10px 0 0 20px;
+    font-size: 17px;
+}
+
+.listMain{
+    margin-bottom: 30px;
+}
+
+.navbar__item{
+    margin-bottom: 15px;
+}
+
+.navbar__item:last-child{
+    margin-bottom: 20px;
+}
+
+.line{
+    width: 120px;
+    height: 1px;
+    background-color: #b4b4b4;
+    margin-bottom: 30px;
+}

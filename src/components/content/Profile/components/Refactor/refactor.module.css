@@ -1,0 +1,16 @@
+.btn {
+    text-align: center;
+    height: auto;
+    border: 1px solid #dadada;
+    background-color: #ebebeb;
+    padding: 6px;
+    border-radius: 5px;
+    font-family: 'Montserrat';
+    font-size: 16px;
+    color: #000000;
+    cursor: pointer;
+}
+
+.btn:active{
+    background-color: #e7e7e7;
+}

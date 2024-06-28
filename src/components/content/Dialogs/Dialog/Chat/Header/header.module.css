@@ -1,0 +1,12 @@
+.container{
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #dddddd;
+    padding: 15px;
+}
+
+.back_link{
+    left: 15px;
+    font-family: "Montserrat";
+    color: #000000;
+}

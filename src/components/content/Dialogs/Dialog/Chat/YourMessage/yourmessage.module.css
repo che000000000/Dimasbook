@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 15px;
+}
+
+.yourmessage{
+    max-width: 47%;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #cbffc6;
+}
+
+.text_message{
+    margin-bottom: 5px;
+}
+
+.date{
+    font-size: 11px;
+    color: #6b6b6b;
+    float: right;
+}

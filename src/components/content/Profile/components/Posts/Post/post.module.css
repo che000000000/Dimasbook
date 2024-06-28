@@ -1,0 +1,45 @@
+.container{
+    position: relative;
+    width: auto;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: #ebebeb;
+    margin-bottom: 10px;
+}
+
+.container:last-child{
+    margin-bottom: 0;
+}
+
+.userWrap{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.user{
+    margin-right: 10px;
+}
+
+.date{
+    font-size: 11px;
+    color: #a3a3a3;
+}
+
+.likes{
+    position: absolute;
+    right: 5px;
+    bottom: 5px;
+}
+
+.like{
+    font-size: 14px;
+    display: inline;
+    cursor: pointer;
+}
+
+.likeCount{
+    font-size: 14px;
+    display: inline;
+    margin-right: 5px;
+}

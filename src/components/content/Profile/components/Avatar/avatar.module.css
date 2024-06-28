@@ -1,0 +1,6 @@
+.container{
+    flex-grow: 1;
+    background-color: #c9c9c9;
+    margin-bottom: 12px;
+    max-height: 252px;
+}

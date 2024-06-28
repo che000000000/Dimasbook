@@ -1,0 +1,19 @@
+.main_container{
+    display: grid;
+    grid-template-columns: 65% auto;
+    gap: 15px;
+}
+
+.dialogs{
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #fff;
+    border: solid 1px #e6e6e6;
+}
+
+.title{
+    font-size: 21px;
+    margin-bottom: 20px;
+}

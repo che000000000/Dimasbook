@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    border-radius: 0 0 10px 10px;
+    background-color: #3f6597;
+    color: #fff;
+    font-size: 26px;
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.header__link{
+    color: #fff;
+}

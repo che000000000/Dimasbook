@@ -1,0 +1,11 @@
+.item{
+    margin-bottom: 15px;
+}
+
+.link{
+    color: #2b2b2b;
+}
+
+.link:hover{
+    opacity: 0.9;
+}

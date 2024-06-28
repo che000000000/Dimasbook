@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.message{
+    max-width: 47%;
+    background-color: #e7e7e7;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.user{
+    cursor: pointer;
+}
+
+.text_message{
+    margin-bottom: 5px;
+}
+
+.date{
+    font-size: 11px;
+    color: #6b6b6b;
+    float: right;
+}

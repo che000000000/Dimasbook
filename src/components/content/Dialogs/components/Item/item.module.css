@@ -1,0 +1,22 @@
+.container{
+    padding: 10px;
+    border-top: 1px solid #d6d6d6;
+}
+
+.container:last-child{
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.name_avatar{
+    display: flex;
+    align-items: center;
+    color: #000;
+}
+
+.avatar{
+    width: 34px;
+    height: 34px;
+    border-radius: 100px;
+    object-fit: cover;
+    margin-right: 10px; 
+}

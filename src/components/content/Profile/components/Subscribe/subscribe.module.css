@@ -1,0 +1,9 @@
+.container{
+    text-align: center;
+    height: auto;   
+    background-color: #3f6597;
+    padding: 6px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}

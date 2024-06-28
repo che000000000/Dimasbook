@@ -10,7 +10,6 @@ import Dialogs from './components/content/Dialogs/Dialogs';
 import Dialog from './components/content/Dialogs/Dialog/Dialog'
 
 function App(props) {
-  // props.addPost("Я ебал козу", props.state.my_profile.id, props.state.my_profile.user_name, props.state.my_profile.user_avatar)
   return (
     <div className={app.app}>
         <Header />
@@ -32,7 +31,7 @@ function App(props) {
               {/* Моя музыка */}
               <Route path="music" element={<Music />} />
               {/* Мои сообщества */}
-              <Route path="community" element={<Community />} />
+              <Route path="community" element={<Community />} /> 
             </Routes>
           </div>
         </main>
